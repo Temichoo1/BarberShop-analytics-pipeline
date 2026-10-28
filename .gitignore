@@ -1,0 +1,18 @@
+# python
+__pycache__/
+*.__pyc
+.venv/
+venv/
+
+#Environmnt files
+.Environmnt
+
+#raw/private data
+data/raw/*.csv
+
+#logs
+*'logs
+# PS files
+.DS_Store
+Thumbs.db'
+#jupyter Notebook checkpoints
