@@ -1,0 +1,37 @@
+barber_code,barber_name,branch_code,experience_level,hire_date
+BAR001,Mandla Mahlangu,BR-JHB-SAN,Senior,2021-07-10
+BAR002,Rudo Moyo,BR-JHB-SAN,Mid-Level,2023-06-03
+BAR003,Ayanda Naidoo,BR-JHB-SAN,Junior,2021-04-20
+BAR004,Lerato Pillay,BR-JHB-SAN,Master Barber,2022-01-25
+BAR005,Kudzai Mahlangu,BR-JHB-SAN,Senior,2022-06-28
+BAR006,Tshepo Khumalo,BR-JHB-SOW,Master Barber,2021-04-12
+BAR007,Kudzai Jacobs,BR-JHB-SOW,Junior,2021-11-11
+BAR008,Zanele Moyo,BR-JHB-SOW,Junior,2023-05-26
+BAR009,Anele Radebe,BR-JHB-SOW,Master Barber,2024-05-14
+BAR010,Sibusiso Moyo,BR-PTA-MEN,Mid-Level,2022-02-28
+BAR011,Anele Dlamini,BR-PTA-MEN,Junior,2023-08-28
+BAR012,Karabo Maseko,BR-PTA-MEN,Master Barber,2023-08-23
+BAR013,Lerato Dlamini,BR-CPT-CLA,Master Barber,2024-08-07
+BAR014,Nkosinathi Sithole,BR-CPT-CLA,Senior,2023-02-21
+BAR015,Nkosinathi Mthembu,BR-CPT-CLA,Senior,2021-04-02
+BAR016,Naledi Mthembu,BR-CPT-CLA,Mid-Level,2022-06-24
+BAR017,Junior Mlambo,BR-CPT-CLA,Mid-Level,2021-05-07
+BAR018,Sibusiso Dlamini,BR-CPT-BEL,Senior,2024-09-30
+BAR019,Refilwe Nkosi,BR-CPT-BEL,Mid-Level,2024-04-22
+BAR020,Kudzai Ndlovu,BR-CPT-BEL,Master Barber,2023-03-04
+BAR021,Refilwe Jacobs,BR-CPT-BEL,Mid-Level,2024-03-18
+BAR022,Rudo Mabena,BR-CPT-BEL,Master Barber,2021-06-11
+BAR023,Thabo Williams,BR-DBN-UMH,Mid-Level,2024-03-15
+BAR024,Themba Mthembu,BR-DBN-UMH,Mid-Level,2021-12-21
+BAR025,Bongani Pillay,BR-DBN-UMH,Junior,2021-09-16
+BAR026,Ayanda Dlamini,BR-DBN-UMH,Master Barber,2024-10-31
+BAR027,Sandile Radebe,BR-DBN-UMH,Senior,2021-10-30
+BAR028,Mandla Dlamini,BR-PLK-BEN,Master Barber,2023-03-06
+BAR029,Kudzai Rice,BR-PLK-BEN,Master Barber,2022-07-20
+BAR030,Tinashe Gumede,BR-PLK-BEN,Master Barber,2024-04-18
+BAR031,Themba Nkosi,BR-PLK-BEN,Mid-Level,2021-11-03
+BAR032,Sibusiso Khumalo,BR-BFN-WES,Junior,2024-02-27
+BAR033,Anele Mahlangu,BR-BFN-WES,Master Barber,2022-12-06
+BAR034,Lerato Maseko,BR-BFN-WES,Master Barber,2024-09-03
+BAR035,Rudo Ndlovu,BR-BFN-WES,Senior,2021-12-19
+BAR036,Amanda Mokoena,BR-BFN-WES,Master Barber,2024-06-20

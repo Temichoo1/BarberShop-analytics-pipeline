@@ -1,0 +1,11 @@
+service_code,service_name,category,standard_price,duration_minutes
+SVC-FADE,Fade Cut,Hair,160.0,45
+SVC-CLASSIC,Classic Haircut,Hair,130.0,35
+SVC-BEARD,Beard Trim,Beard,80.0,20
+SVC-COMBO,Haircut + Beard Combo,Combo,210.0,60
+SVC-KIDS,Kids Cut,Hair,95.0,30
+SVC-SHAVE,Clean Shave,Beard,90.0,25
+SVC-DREAD,Dreadlock Maintenance,Hair,280.0,90
+SVC-TREAT,Hair Treatment,Hair Care,180.0,50
+SVC-LINEUP,Line Up,Hair,70.0,15
+SVC-COLOR,Hair Colour,Hair Care,320.0,120

@@ -90,9 +90,7 @@ def load_csv_to_bronze(file_path, table_name):
         conn.commit()
 
 
-    conn.commit()
-
-        
+    conn.commit()       
         
 
     print(f"Loaded {len(df)} rows into {table_name}")

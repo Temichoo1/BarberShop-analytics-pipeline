@@ -1,0 +1,501 @@
+customer_id,first_name,last_name,phone_number,email,gender,city,province,signup_date
+CUST00001,Tinashe,Van Wyk,+27642719583,tinashe.vanwyk1@example.com,Male,Durban,KwaZulu-Natal,2024-08-16
+CUST00002,Anele,Nkosi,+27624668136,anele.nkosi2@example.com,Male,Johannesburg,Gauteng,2024-01-31
+CUST00003,Lerato,Gumede,+27668038374,lerato.gumede3@example.com,Male,Johannesburg,Gauteng,2025-07-28
+CUST00004,Wandile,Mlambo,+27843678638,wandile.mlambo4@example.com,Male,Polokwane,Limpopo,2024-01-07
+CUST00005,Rudo,Van Wyk,+27846647119,rudo.vanwyk5@example.com,Female,Cape Town,Western Cape,2024-08-08
+CUST00006,Thabo,Maseko,+27715437923,thabo.maseko6@example.com,Male,Pretoria,Gauteng,2025-01-02
+CUST00007,Wandile,Mahlangu,+27625918715,wandile.mahlangu7@example.com,Male,Pretoria,Gauteng,2025-01-22
+CUST00008,Mpho,Dlamini,+27675855124,mpho.dlamini8@example.com,Female,Johannesburg,Gauteng,2025-11-08
+CUST00009,Themba,Khumalo,+27747120868,themba.khumalo9@example.com,Male,Midrand,Gauteng,2024-10-11
+CUST00010,Nkosinathi,Sithole,+27682197935,nkosinathi.sithole10@example.com,Male,Durban,KwaZulu-Natal,2025-11-17
+CUST00011,Junior,Botha,+27725528972,junior.botha11@example.com,Male,Cape Town,Western Cape,2025-04-18
+CUST00012,Musa,Ndlovu,+27707730428,musa.ndlovu12@example.com,Male,Durban,KwaZulu-Natal,2024-02-02
+CUST00013,Thandi,Pillay,+27809375710,thandi.pillay13@example.com,Female,Bloemfontein,Free State,2024-08-05
+CUST00014,Refilwe,Mokoena,+27675408072,refilwe.mokoena14@example.com,Female,Polokwane,Limpopo,2024-05-22
+CUST00015,Boitumelo,Sithole,+27769279821,boitumelo.sithole15@example.com,Female,Durban,KwaZulu-Natal,2024-05-21
+CUST00016,Sipho,Khumalo,+27658082668,sipho.khumalo16@example.com,Male,Cape Town,Western Cape,2025-10-04
+CUST00017,Sandile,Maseko,+27681192619,sandile.maseko17@example.com,Male,Centurion,Gauteng,2025-06-25
+CUST00018,Junior,Van Wyk,+27698294150,junior.vanwyk18@example.com,Male,Bloemfontein,Free State,2024-04-24
+CUST00019,Wandile,Moyo,+27843997281,wandile.moyo19@example.com,Male,Polokwane,Limpopo,2025-05-27
+CUST00020,Tawanda,Radebe,+27713710343,tawanda.radebe20@example.com,Male,Durban,KwaZulu-Natal,2024-06-05
+CUST00021,Karabo,Dube,+27637089806,karabo.Dube21@example.com,Male,Centurion,Gauteng,2024-01-20
+CUST00022,Ayanda,Ndlovu,+27622437026,ayanda.ndlovu22@example.com,Female,Durban,KwaZulu-Natal,2025-08-03
+CUST00023,Thandi,Mahlangu,+27818973915,thandi.mahlangu23@example.com,Female,Cape Town,Western Cape,2024-05-11
+CUST00024,Blessing,Williams,+27774374754,blessing.williams24@example.com,Male,Midrand,Gauteng,2024-08-04
+CUST00025,Boitumelo,Radebe,+27768574680,boitumelo.radebe25@example.com,Female,Bloemfontein,Free State,2025-03-24
+CUST00026,Themba,Botha,+27604860684,themba.botha26@example.com,Male,Pretoria,Gauteng,2024-12-12
+CUST00027,Tinashe,Dlamini,+27621527021,tinashe.dlamini27@example.com,Male,Johannesburg,Gauteng,2024-08-22
+CUST00028,Thandi,Williams,+27819143903,thandi.williams28@example.com,Female,Durban,KwaZulu-Natal,2024-10-12
+CUST00029,Junior,Mokoena,+27757829332,junior.mokoena29@example.com,Male,Centurion,Gauteng,2024-09-05
+CUST00030,Lungile,Khumalo,+27737897151,lungile.khumalo30@example.com,Male,Midrand,Gauteng,2024-12-28
+CUST00031,Lerato,Radebe,+27726692553,lerato.radebe31@example.com,Female,Pretoria,Gauteng,2024-03-03
+CUST00032,Themba,Pillay,+27743351868,themba.pillay32@example.com,Male,Durban,KwaZulu-Natal,2025-07-03
+CUST00033,Amanda,Van Wyk,+27628434500,amanda.vanwyk33@example.com,Female,Centurion,Gauteng,2024-09-12
+CUST00034,Sipho,Radebe,+27844965789,sipho.radebe34@example.com,Male,Johannesburg,Gauteng,2024-04-05
+CUST00035,Bongani,Jacobs,+27721983738,bongani.jacobs35@example.com,Male,Centurion,Gauteng,2024-08-06
+CUST00036,Sandile,Moyo,+27745785687,sandile.moyo36@example.com,Male,Midrand,Gauteng,2024-09-28
+CUST00037,Kudzai,Mokoena,+27661981186,kudzai.mokoena37@example.com,Female,Durban,KwaZulu-Natal,2024-10-30
+CUST00038,Musa,Ndlovu,+27759436429,musa.ndlovu38@example.com,Male,Johannesburg,Gauteng,2025-08-21
+CUST00039,Sipho,Williams,+27622140194,sipho.williams39@example.com,Male,Pretoria,Gauteng,2024-07-09
+CUST00040,Sandile,Khumalo,+27791666754,sandile.khumalo40@example.com,Male,Durban,KwaZulu-Natal,2025-08-15
+CUST00041,Bongani,Mlambo,+27666271130,bongani.mlambo41@example.com,Male,Bloemfontein,Free State,2024-09-24
+CUST00042,Blessing,Maseko,+27806033115,blessing.maseko42@example.com,Male,Cape Town,Western Cape,2025-11-18
+CUST00043,Rudo,Dlamini,+27792677407,rudo.dlamini43@example.com,Female,Johannesburg,Gauteng,2025-04-14
+CUST00044,Junior,Pillay,+27712154126,junior.pillay44@example.com,Male,Polokwane,Limpopo,2024-05-15
+CUST00045,Nkosinathi,Mabena,+27776075395,nkosinathi.mabena45@example.com,Male,Cape Town,Western Cape,2025-03-24
+CUST00046,Junior,Mabena,+27682936571,junior.mabena46@example.com,Male,Pretoria,Gauteng,2024-05-17
+CUST00047,Junior,Mokoena,+27794533779,junior.mokoena47@example.com,Male,Polokwane,Limpopo,2024-10-15
+CUST00048,Mpho,Radebe,+27755213115,mpho.radebe48@example.com,Female,Polokwane,Limpopo,2025-06-01
+CUST00049,Thabo,Radebe,+27611059486,thabo.radebe49@example.com,Male,Midrand,Gauteng,2024-10-10
+CUST00050,Nokuthula,Radebe,+27838412769,nokuthula.radebe50@example.com,Female,Polokwane,Limpopo,2024-06-14
+CUST00051,Nomsa,Khumalo,+27771604451,nomsa.khumalo51@example.com,Female,Pretoria,Gauteng,2024-06-01
+CUST00052,Nokuthula,Nkosi,+27697117837,nokuthula.nkosi52@example.com,Female,Cape Town,Western Cape,2024-02-12
+CUST00053,Nkosinathi,Pillay,+27636933742,nkosinathi.pillay53@example.com,Male,Durban,KwaZulu-Natal,2025-11-13
+CUST00054,Nokuthula,Botha,+27731415846,nokuthula.botha54@example.com,Female,Cape Town,Western Cape,2024-06-30
+CUST00055,Musa,Nkosi,+27652813543,musa.nkosi55@example.com,Male,Durban,KwaZulu-Natal,2024-09-30
+CUST00056,Lerato,Jacobs,+27746866294,lerato.jacobs56@example.com,Female,Durban,KwaZulu-Natal,2024-07-23
+CUST00057,Ayanda,Botha,+27667685149,ayanda.botha57@example.com,Female,Johannesburg,Gauteng,2025-11-06
+CUST00058,Naledi,Dlamini,+27809546409,naledi.dlamini58@example.com,Female,Polokwane,Limpopo,2024-12-25
+CUST00059,Rudo,Moyo,+27655453786,rudo.moyo59@example.com,Female,Pretoria,Gauteng,2024-09-24
+CUST00060,Lungile,Gumede,+27836262632,lungile.gumede60@example.com,Male,Midrand,Gauteng,2024-12-19
+CUST00061,Zanele,Maseko,+27618315831,zanele.maseko61@example.com,Female,Durban,KwaZulu-Natal,2024-09-17
+CUST00062,Lerato,Mahlangu,+27732173965,lerato.mahlangu62@example.com,Male,Durban,KwaZulu-Natal,2025-01-07
+CUST00063,Rudo,Khumalo,+27697851696,rudo.khumalo63@example.com,Female,Polokwane,Limpopo,2025-06-03
+CUST00064,Boitumelo,Mabena,+27737361002,boitumelo.mabena64@example.com,Female,Cape Town,Western Cape,2024-07-15
+CUST00065,Karabo,Mlambo,+27771006810,karabo.mlambo65@example.com,Male,Polokwane,Limpopo,2025-02-19
+CUST00066,Chipo,Pillay,+27796406444,chipo.pillay66@example.com,Female,Midrand,Gauteng,2025-08-16
+CUST00067,Refilwe,Mthembu,+27753846949,refilwe.mthembu67@example.com,Female,Durban,KwaZulu-Natal,2025-06-07
+CUST00068,Tawanda,Williams,+27844940441,tawanda.williams68@example.com,Male,Bloemfontein,Free State,2024-04-05
+CUST00069,Ayanda,Pillay,+27615107776,ayanda.pillay69@example.com,Female,Cape Town,Western Cape,2024-01-26
+CUST00070,Thandi,Mthembu,+27784262081,thandi.mthembu70@example.com,Female,Midrand,Gauteng,2025-10-06
+CUST00071,Kudzai,Maseko,+27801093026,kudzai.maseko71@example.com,Female,Durban,KwaZulu-Natal,2024-05-31
+CUST00072,Bongani,Botha,+27741842524,bongani.botha72@example.com,Male,Cape Town,Western Cape,2025-06-14
+CUST00073,Lungile,Mthembu,+27819910914,lungile.mthembu73@example.com,Male,Cape Town,Western Cape,2025-04-20
+CUST00074,Refilwe,Gumede,+27743670226,refilwe.gumede74@example.com,Female,Midrand,Gauteng,2025-07-15
+CUST00075,Refilwe,Van Wyk,+27689745959,refilwe.vanwyk75@example.com,Female,Durban,KwaZulu-Natal,2025-10-14
+CUST00076,Ayanda,Van Wyk,+27825793722,ayanda.vanwyk76@example.com,Female,Centurion,Gauteng,2024-03-20
+CUST00077,Blessing,Dube,+27623321531,blessing.Dube77@example.com,Male,Bloemfontein,Free State,2025-07-07
+CUST00078,Themba,Maseko,+27627960328,themba.maseko78@example.com,Male,Cape Town,Western Cape,2024-08-07
+CUST00079,Rudo,Mahlangu,+27614470105,rudo.mahlangu79@example.com,Female,Centurion,Gauteng,2025-03-01
+CUST00080,Boitumelo,Mlambo,+27729002392,boitumelo.mlambo80@example.com,Female,Johannesburg,Gauteng,2025-08-12
+CUST00081,Nkosinathi,Mabena,+27774700025,nkosinathi.mabena81@example.com,Male,Midrand,Gauteng,2025-03-05
+CUST00082,Ayanda,Van Wyk,+27607523941,ayanda.vanwyk82@example.com,Female,Midrand,Gauteng,2025-05-12
+CUST00083,Boitumelo,Naidoo,+27799961107,boitumelo.naidoo83@example.com,Female,Centurion,Gauteng,2024-05-10
+CUST00084,Sandile,Mlambo,+27808190929,sandile.mlambo84@example.com,Male,Johannesburg,Gauteng,2024-03-26
+CUST00085,Wandile,Naidoo,+27726492066,wandile.naidoo85@example.com,Male,Johannesburg,Gauteng,2024-09-23
+CUST00086,Wandile,Dube,+27688072684,wandile.Dube86@example.com,Male,Bloemfontein,Free State,2025-01-23
+CUST00087,Thandi,Jacobs,+27616871360,thandi.jacobs87@example.com,Female,Johannesburg,Gauteng,2025-07-06
+CUST00088,Thabo,Radebe,+27674344717,thabo.radebe88@example.com,Male,Johannesburg,Gauteng,2024-02-01
+CUST00089,Karabo,Mokoena,+27752919136,karabo.mokoena89@example.com,Male,Durban,KwaZulu-Natal,2024-05-09
+CUST00090,Wandile,Van Wyk,+27792921542,wandile.vanwyk90@example.com,Male,Bloemfontein,Free State,2024-06-20
+CUST00091,Tawanda,Khumalo,+27787296605,tawanda.khumalo91@example.com,Male,Johannesburg,Gauteng,2024-11-15
+CUST00092,Mpho,Dlamini,+27826059717,mpho.dlamini92@example.com,Female,Durban,KwaZulu-Natal,2024-04-14
+CUST00093,Anele,Ndlovu,+27737217147,anele.ndlovu93@example.com,Male,Bloemfontein,Free State,2025-06-29
+CUST00094,Lerato,Radebe,+27739224219,lerato.radebe94@example.com,Male,Bloemfontein,Free State,2024-01-13
+CUST00095,Bongani,Sithole,+27733955087,bongani.sithole95@example.com,Male,Centurion,Gauteng,2024-06-05
+CUST00096,Kudzai,Mthembu,+27686407373,kudzai.mthembu96@example.com,Female,Midrand,Gauteng,2025-08-29
+CUST00097,Thabo,Van Wyk,+27848796514,thabo.vanwyk97@example.com,Male,Centurion,Gauteng,2024-09-06
+CUST00098,Rudo,Moyo,+27659179730,rudo.moyo98@example.com,Female,Centurion,Gauteng,2024-11-28
+CUST00099,Nkosinathi,Van Wyk,+27795635017,nkosinathi.vanwyk99@example.com,Male,Bloemfontein,Free State,2024-10-13
+CUST00100,Lerato,Pillay,+27837818732,lerato.pillay100@example.com,Male,Pretoria,Gauteng,2024-09-04
+CUST00101,Ayanda,Jacobs,+27602561176,ayanda.jacobs101@example.com,Female,Centurion,Gauteng,2025-04-03
+CUST00102,Ayanda,Maseko,+27817191135,ayanda.maseko102@example.com,Female,Durban,KwaZulu-Natal,2024-11-09
+CUST00103,Tariro,Nkosi,+27828612582,tariro.nkosi103@example.com,Female,Bloemfontein,Free State,2024-12-26
+CUST00104,Chipo,Van Wyk,+27834231028,chipo.vanwyk104@example.com,Female,Durban,KwaZulu-Natal,2024-05-03
+CUST00105,Zanele,Mahlangu,+27669123504,zanele.mahlangu105@example.com,Female,Cape Town,Western Cape,2024-07-15
+CUST00106,Chipo,Khumalo,+27677054579,chipo.khumalo106@example.com,Female,Durban,KwaZulu-Natal,2024-10-30
+CUST00107,Tawanda,Moyo,+27611914794,tawanda.moyo107@example.com,Male,Cape Town,Western Cape,2024-10-07
+CUST00108,Nokuthula,Radebe,+27605770422,nokuthula.radebe108@example.com,Female,Centurion,Gauteng,2024-04-15
+CUST00109,Kudzai,Mthembu,+27615235884,kudzai.mthembu109@example.com,Female,Bloemfontein,Free State,2024-07-07
+CUST00110,Zanele,Dlamini,+27621899411,zanele.dlamini110@example.com,Female,Midrand,Gauteng,2025-05-18
+CUST00111,Mandla,Mlambo,+27672987287,mandla.mlambo111@example.com,Male,Polokwane,Limpopo,2024-03-28
+CUST00112,Ayanda,Williams,+27745988757,ayanda.williams112@example.com,Female,Midrand,Gauteng,2025-04-06
+CUST00113,Chipo,Mlambo,+27832664863,chipo.mlambo113@example.com,Female,Johannesburg,Gauteng,2025-09-16
+CUST00114,Sibusiso,Van Wyk,+27673916107,sibusiso.vanwyk114@example.com,Male,Pretoria,Gauteng,2024-06-09
+CUST00115,Kagiso,Moyo,+27828883823,kagiso.moyo115@example.com,Male,Midrand,Gauteng,2025-04-06
+CUST00116,Lerato,Botha,+27828617381,lerato.botha116@example.com,Female,Polokwane,Limpopo,2024-10-16
+CUST00117,Themba,Van Wyk,+27634771676,themba.vanwyk117@example.com,Male,Durban,KwaZulu-Natal,2025-03-11
+CUST00118,Blessing,Mokoena,+27656160869,blessing.mokoena118@example.com,Male,Pretoria,Gauteng,2024-03-02
+CUST00119,Refilwe,Khumalo,+27827752972,refilwe.khumalo119@example.com,Female,Centurion,Gauteng,2024-11-07
+CUST00120,Kudzai,Mthembu,+27618248238,kudzai.mthembu120@example.com,Female,Pretoria,Gauteng,2025-09-04
+CUST00121,Naledi,Moyo,+27811348050,naledi.moyo121@example.com,Female,Pretoria,Gauteng,2024-08-22
+CUST00122,Lerato,Naidoo,+27808419378,lerato.naidoo122@example.com,Female,Centurion,Gauteng,2025-06-15
+CUST00123,Amanda,Mlambo,+27752530793,amanda.mlambo123@example.com,Female,Midrand,Gauteng,2025-10-12
+CUST00124,Tariro,Nkosi,+27812754894,tariro.nkosi124@example.com,Female,Bloemfontein,Free State,2024-11-24
+CUST00125,Musa,Nkosi,+27817718473,musa.nkosi125@example.com,Male,Centurion,Gauteng,2024-10-22
+CUST00126,Wandile,Dlamini,+27702944841,wandile.dlamini126@example.com,Male,Bloemfontein,Free State,2024-09-15
+CUST00127,Nomsa,Mahlangu,+27614147112,nomsa.mahlangu127@example.com,Female,Centurion,Gauteng,2025-02-27
+CUST00128,Kudzai,Radebe,+27665480460,kudzai.radebe128@example.com,Female,Centurion,Gauteng,2024-02-22
+CUST00129,Tawanda,Mthembu,+27605014745,tawanda.mthembu129@example.com,Male,Centurion,Gauteng,2024-05-04
+CUST00130,Tawanda,Mahlangu,+27732563790,tawanda.mahlangu130@example.com,Male,Johannesburg,Gauteng,2025-07-19
+CUST00131,Lungile,Mthembu,+27649361353,lungile.mthembu131@example.com,Male,Pretoria,Gauteng,2025-10-25
+CUST00132,Naledi,Nkosi,+27678663605,naledi.nkosi132@example.com,Female,Centurion,Gauteng,2025-04-28
+CUST00133,Sandile,Pillay,+27687961578,sandile.pillay133@example.com,Male,Cape Town,Western Cape,2024-03-12
+CUST00134,Naledi,Moyo,+27789214801,naledi.moyo134@example.com,Female,Polokwane,Limpopo,2024-11-01
+CUST00135,Wandile,Mahlangu,+27707328534,wandile.mahlangu135@example.com,Male,Centurion,Gauteng,2024-12-19
+CUST00136,Rudo,Pillay,+27724918527,rudo.pillay136@example.com,Female,Durban,KwaZulu-Natal,2025-08-08
+CUST00137,Lerato,Dube,+27723551903,lerato.Dube137@example.com,Female,Centurion,Gauteng,2025-01-25
+CUST00138,Lerato,Mokoena,+27742672884,lerato.mokoena138@example.com,Female,Bloemfontein,Free State,2024-04-12
+CUST00139,Nomsa,Mokoena,+27642255409,nomsa.mokoena139@example.com,Female,Midrand,Gauteng,2025-11-01
+CUST00140,Naledi,Dube,+27626512415,naledi.Dube140@example.com,Female,Midrand,Gauteng,2025-10-27
+CUST00141,Rudo,Radebe,+27612147909,rudo.radebe141@example.com,Female,Centurion,Gauteng,2025-07-08
+CUST00142,Tawanda,Botha,+27632686231,tawanda.botha142@example.com,Male,Pretoria,Gauteng,2025-03-20
+CUST00143,Amanda,Mabena,+27701941524,amanda.mabena143@example.com,Female,Johannesburg,Gauteng,2024-02-17
+CUST00144,Tariro,Sithole,+27679911492,tariro.sithole144@example.com,Female,Midrand,Gauteng,2024-05-29
+CUST00145,Amanda,Naidoo,+27797418028,amanda.naidoo145@example.com,Female,Cape Town,Western Cape,2024-03-21
+CUST00146,Tshepo,Mlambo,+27745261032,tshepo.mlambo146@example.com,Male,Cape Town,Western Cape,2024-08-25
+CUST00147,Naledi,Moyo,+27813650391,naledi.moyo147@example.com,Female,Centurion,Gauteng,2024-10-21
+CUST00148,Wandile,Sithole,+27735195951,wandile.sithole148@example.com,Male,Polokwane,Limpopo,2025-10-16
+CUST00149,Chipo,Pillay,+27634979651,chipo.pillay149@example.com,Female,Midrand,Gauteng,2025-05-09
+CUST00150,Tariro,Mlambo,+27607640518,tariro.mlambo150@example.com,Female,Polokwane,Limpopo,2024-10-29
+CUST00151,Nomsa,Mlambo,+27839333700,nomsa.mlambo151@example.com,Female,Johannesburg,Gauteng,2025-09-12
+CUST00152,Ayanda,Gumede,+27804189885,ayanda.gumede152@example.com,Female,Bloemfontein,Free State,2024-08-12
+CUST00153,Nokuthula,Radebe,+27801661401,nokuthula.radebe153@example.com,Female,Pretoria,Gauteng,2025-10-04
+CUST00154,Refilwe,Ndlovu,+27625951131,refilwe.ndlovu154@example.com,Female,Bloemfontein,Free State,2024-05-14
+CUST00155,Nandi,Naidoo,+27777138070,nandi.naidoo155@example.com,Female,Durban,KwaZulu-Natal,2024-05-15
+CUST00156,Amanda,Van Wyk,+27836682698,amanda.vanwyk156@example.com,Female,Centurion,Gauteng,2024-10-29
+CUST00157,Wandile,Dlamini,+27817667458,wandile.dlamini157@example.com,Male,Cape Town,Western Cape,2024-08-19
+CUST00158,Thandi,Maseko,+27773073474,thandi.maseko158@example.com,Female,Johannesburg,Gauteng,2024-09-27
+CUST00159,Tariro,Van Wyk,+27712817745,tariro.vanwyk159@example.com,Female,Midrand,Gauteng,2025-10-15
+CUST00160,Tshepo,Moyo,+27672060605,tshepo.moyo160@example.com,Male,Bloemfontein,Free State,2025-09-16
+CUST00161,Chipo,Radebe,+27641760793,chipo.radebe161@example.com,Female,Midrand,Gauteng,2024-04-29
+CUST00162,Tawanda,Jacobs,+27673276065,tawanda.jacobs162@example.com,Male,Pretoria,Gauteng,2024-04-09
+CUST00163,Refilwe,Sithole,+27833592464,refilwe.sithole163@example.com,Female,Midrand,Gauteng,2025-08-24
+CUST00164,Zanele,Jacobs,+27617216461,zanele.jacobs164@example.com,Female,Midrand,Gauteng,2024-10-13
+CUST00165,Wandile,Mthembu,+27637162857,wandile.mthembu165@example.com,Male,Durban,KwaZulu-Natal,2025-01-06
+CUST00166,Lerato,Maseko,+27638628891,lerato.maseko166@example.com,Female,Polokwane,Limpopo,2024-07-13
+CUST00167,Sibusiso,Radebe,+27705086407,sibusiso.radebe167@example.com,Male,Johannesburg,Gauteng,2024-02-21
+CUST00168,Anele,Pillay,+27664623062,anele.pillay168@example.com,Male,Pretoria,Gauteng,2025-07-21
+CUST00169,Musa,Mokoena,+27643180906,musa.mokoena169@example.com,Male,Johannesburg,Gauteng,2024-10-10
+CUST00170,Amanda,Khumalo,+27607010308,amanda.khumalo170@example.com,Female,Johannesburg,Gauteng,2024-05-14
+CUST00171,Anele,Dube,+27681879109,anele.Dube171@example.com,Male,Johannesburg,Gauteng,2024-06-27
+CUST00172,Bongani,Williams,+27758520810,bongani.williams172@example.com,Male,Pretoria,Gauteng,2024-03-06
+CUST00173,Zanele,Mthembu,+27619748499,zanele.mthembu173@example.com,Female,Durban,KwaZulu-Natal,2025-09-21
+CUST00174,Refilwe,Radebe,+27757738019,refilwe.radebe174@example.com,Female,Johannesburg,Gauteng,2024-03-03
+CUST00175,Zanele,Jacobs,+27626404139,zanele.jacobs175@example.com,Female,Centurion,Gauteng,2024-03-16
+CUST00176,Thabo,Mokoena,+27806455706,thabo.mokoena176@example.com,Male,Polokwane,Limpopo,2025-10-01
+CUST00177,Chipo,Mthembu,+27822919549,chipo.mthembu177@example.com,Female,Midrand,Gauteng,2024-04-11
+CUST00178,Bongani,Mthembu,+27708608449,bongani.mthembu178@example.com,Male,Durban,KwaZulu-Natal,2025-02-27
+CUST00179,Nandi,Khumalo,+27705276341,nandi.khumalo179@example.com,Female,Bloemfontein,Free State,2025-03-13
+CUST00180,Nokuthula,Jacobs,+27622564141,nokuthula.jacobs180@example.com,Female,Pretoria,Gauteng,2024-04-03
+CUST00181,Zanele,Sithole,+27616530541,zanele.sithole181@example.com,Female,Cape Town,Western Cape,2025-07-23
+CUST00182,Bongani,Sithole,+27696242022,bongani.sithole182@example.com,Male,Midrand,Gauteng,2024-02-22
+CUST00183,Zanele,Mlambo,+27819089795,zanele.mlambo183@example.com,Female,Durban,KwaZulu-Natal,2024-06-07
+CUST00184,Lungile,Sithole,+27845673599,lungile.sithole184@example.com,Male,Bloemfontein,Free State,2024-04-27
+CUST00185,Bongani,Mahlangu,+27815487028,bongani.mahlangu185@example.com,Male,Johannesburg,Gauteng,2025-09-15
+CUST00186,Kagiso,Van Wyk,+27711102438,kagiso.vanwyk186@example.com,Male,Polokwane,Limpopo,2024-12-13
+CUST00187,Mandla,Mlambo,+27641514340,mandla.mlambo187@example.com,Male,Midrand,Gauteng,2024-03-12
+CUST00188,Lerato,Pillay,+27746719285,lerato.pillay188@example.com,Male,Midrand,Gauteng,2025-03-05
+CUST00189,Nkosinathi,Mabena,+27792425342,nkosinathi.mabena189@example.com,Male,Bloemfontein,Free State,2025-08-04
+CUST00190,Mandla,Naidoo,+27625565128,mandla.naidoo190@example.com,Male,Johannesburg,Gauteng,2025-11-21
+CUST00191,Nandi,Jacobs,+27684616647,nandi.jacobs191@example.com,Female,Centurion,Gauteng,2025-02-28
+CUST00192,Nkosinathi,Nkosi,+27819164342,nkosinathi.nkosi192@example.com,Male,Pretoria,Gauteng,2024-10-17
+CUST00193,Lerato,Botha,+27611128967,lerato.botha193@example.com,Female,Midrand,Gauteng,2025-09-05
+CUST00194,Tawanda,Pillay,+27696504979,tawanda.pillay194@example.com,Male,Cape Town,Western Cape,2024-09-18
+CUST00195,Tinashe,Jacobs,+27647378822,tinashe.jacobs195@example.com,Male,Midrand,Gauteng,2024-06-28
+CUST00196,Lerato,Mahlangu,+27721709714,lerato.mahlangu196@example.com,Male,Bloemfontein,Free State,2024-03-14
+CUST00197,Nomsa,Mthembu,+27788202195,nomsa.mthembu197@example.com,Female,Pretoria,Gauteng,2024-11-16
+CUST00198,Nandi,Mabena,+27606448705,nandi.mabena198@example.com,Female,Pretoria,Gauteng,2025-02-18
+CUST00199,Karabo,Mthembu,+27732776088,karabo.mthembu199@example.com,Male,Bloemfontein,Free State,2024-03-31
+CUST00200,Bongani,Mlambo,+27627639863,bongani.mlambo200@example.com,Male,Midrand,Gauteng,2025-06-20
+CUST00201,Rudo,Botha,+27629564488,rudo.botha201@example.com,Female,Bloemfontein,Free State,2024-06-21
+CUST00202,Lerato,Williams,+27713477824,lerato.williams202@example.com,Male,Durban,KwaZulu-Natal,2024-12-23
+CUST00203,Lungile,Mokoena,+27653564729,lungile.mokoena203@example.com,Male,Polokwane,Limpopo,2024-07-21
+CUST00204,Kagiso,Radebe,+27848531380,kagiso.radebe204@example.com,Male,Centurion,Gauteng,2025-04-20
+CUST00205,Rudo,Mokoena,+27758419020,rudo.mokoena205@example.com,Female,Centurion,Gauteng,2024-03-10
+CUST00206,Naledi,Mlambo,+27762244712,naledi.mlambo206@example.com,Female,Johannesburg,Gauteng,2024-12-26
+CUST00207,Refilwe,Mthembu,+27715816353,refilwe.mthembu207@example.com,Female,Johannesburg,Gauteng,2024-02-28
+CUST00208,Thabo,Gumede,+27781688246,thabo.gumede208@example.com,Male,Midrand,Gauteng,2025-04-18
+CUST00209,Mpho,Dube,+27642038068,mpho.Dube209@example.com,Female,Centurion,Gauteng,2025-05-28
+CUST00210,Zanele,Dube,+27803895058,zanele.Dube210@example.com,Female,Pretoria,Gauteng,2025-05-31
+CUST00211,Themba,Mthembu,+27763663319,themba.mthembu211@example.com,Male,Centurion,Gauteng,2025-06-20
+CUST00212,Tariro,Mabena,+27846676858,tariro.mabena212@example.com,Female,Midrand,Gauteng,2025-02-22
+CUST00213,Musa,Dlamini,+27777485471,musa.dlamini213@example.com,Male,Bloemfontein,Free State,2024-04-06
+CUST00214,Naledi,Gumede,+27623372774,naledi.gumede214@example.com,Female,Cape Town,Western Cape,2024-12-07
+CUST00215,Chipo,Radebe,+27792421349,chipo.radebe215@example.com,Female,Midrand,Gauteng,2024-05-12
+CUST00216,Boitumelo,Radebe,+27819831414,boitumelo.radebe216@example.com,Female,Bloemfontein,Free State,2024-05-10
+CUST00217,Bongani,Williams,+27716181912,bongani.williams217@example.com,Male,Bloemfontein,Free State,2024-01-19
+CUST00218,Sibusiso,Dube,+27673307963,sibusiso.Dube218@example.com,Male,Centurion,Gauteng,2024-07-15
+CUST00219,Thabo,Mabena,+27849833734,thabo.mabena219@example.com,Male,Pretoria,Gauteng,2025-06-03
+CUST00220,Musa,Gumede,+27723587931,musa.gumede220@example.com,Male,Cape Town,Western Cape,2025-09-03
+CUST00221,Kagiso,Gumede,+27617893063,kagiso.gumede221@example.com,Male,Cape Town,Western Cape,2025-03-24
+CUST00222,Ayanda,Mthembu,+27679959220,ayanda.mthembu222@example.com,Female,Polokwane,Limpopo,2025-04-04
+CUST00223,Tawanda,Jacobs,+27818391997,tawanda.jacobs223@example.com,Male,Durban,KwaZulu-Natal,2025-01-11
+CUST00224,Chipo,Maseko,+27663321942,chipo.maseko224@example.com,Female,Midrand,Gauteng,2024-06-14
+CUST00225,Lerato,Radebe,+27772721170,lerato.radebe225@example.com,Female,Centurion,Gauteng,2025-01-15
+CUST00226,Tawanda,Dlamini,+27749612629,tawanda.dlamini226@example.com,Male,Cape Town,Western Cape,2024-10-06
+CUST00227,Bongani,Dlamini,+27711447451,bongani.dlamini227@example.com,Male,Durban,KwaZulu-Natal,2025-04-06
+CUST00228,Lerato,Maseko,+27722369112,lerato.maseko228@example.com,Female,Bloemfontein,Free State,2024-08-29
+CUST00229,Ayanda,Moyo,+27826625238,ayanda.moyo229@example.com,Female,Bloemfontein,Free State,2024-04-11
+CUST00230,Mandla,Ndlovu,+27823328554,mandla.ndlovu230@example.com,Male,Polokwane,Limpopo,2025-04-28
+CUST00231,Refilwe,Gumede,+27605293691,refilwe.gumede231@example.com,Female,Johannesburg,Gauteng,2024-03-22
+CUST00232,Mandla,Mahlangu,+27845833542,mandla.mahlangu232@example.com,Male,Midrand,Gauteng,2024-04-23
+CUST00233,Tawanda,Khumalo,+27738669093,tawanda.khumalo233@example.com,Male,Johannesburg,Gauteng,2024-09-01
+CUST00234,Lungile,Jacobs,+27765059048,lungile.jacobs234@example.com,Male,Johannesburg,Gauteng,2025-10-09
+CUST00235,Tawanda,Nkosi,+27715035998,tawanda.nkosi235@example.com,Male,Johannesburg,Gauteng,2025-09-21
+CUST00236,Amanda,Dlamini,+27769511546,amanda.dlamini236@example.com,Female,Bloemfontein,Free State,2024-03-10
+CUST00237,Sandile,Jacobs,+27727262974,sandile.jacobs237@example.com,Male,Johannesburg,Gauteng,2025-10-12
+CUST00238,Nomsa,Sithole,+27672739191,nomsa.sithole238@example.com,Female,Pretoria,Gauteng,2024-12-19
+CUST00239,Nokuthula,Ndlovu,+27703937508,nokuthula.ndlovu239@example.com,Female,Bloemfontein,Free State,2025-07-13
+CUST00240,Kudzai,Radebe,+27628678589,kudzai.radebe240@example.com,Female,Cape Town,Western Cape,2024-05-18
+CUST00241,Tawanda,Pillay,+27616294819,tawanda.pillay241@example.com,Male,Johannesburg,Gauteng,2024-07-23
+CUST00242,Boitumelo,Mahlangu,+27614206183,boitumelo.mahlangu242@example.com,Female,Centurion,Gauteng,2024-09-16
+CUST00243,Tariro,Ndlovu,+27637174337,tariro.ndlovu243@example.com,Female,Bloemfontein,Free State,2024-10-06
+CUST00244,Boitumelo,Mthembu,+27659324908,boitumelo.mthembu244@example.com,Female,Midrand,Gauteng,2024-12-13
+CUST00245,Tariro,Williams,+27838121922,tariro.williams245@example.com,Female,Polokwane,Limpopo,2024-03-25
+CUST00246,Bongani,Gumede,+27696389033,bongani.gumede246@example.com,Male,Cape Town,Western Cape,2025-07-12
+CUST00247,Thabo,Dube,+27748149041,thabo.Dube247@example.com,Male,Polokwane,Limpopo,2024-11-09
+CUST00248,Wandile,Sithole,+27836914963,wandile.sithole248@example.com,Male,Centurion,Gauteng,2024-02-13
+CUST00249,Naledi,Radebe,+27817815076,naledi.radebe249@example.com,Female,Johannesburg,Gauteng,2024-03-17
+CUST00250,Amanda,Moyo,+27818351320,amanda.moyo250@example.com,Female,Cape Town,Western Cape,2025-09-14
+CUST00251,Mandla,Dlamini,+27717075878,mandla.dlamini251@example.com,Male,Durban,KwaZulu-Natal,2025-10-22
+CUST00252,Lerato,Gumede,+27747223751,lerato.gumede252@example.com,Female,Cape Town,Western Cape,2025-11-26
+CUST00253,Refilwe,Dlamini,+27717677903,refilwe.dlamini253@example.com,Female,Cape Town,Western Cape,2025-06-26
+CUST00254,Naledi,Botha,+27834121368,naledi.botha254@example.com,Female,Pretoria,Gauteng,2024-01-27
+CUST00255,Boitumelo,Mahlangu,+27845366937,boitumelo.mahlangu255@example.com,Female,Pretoria,Gauteng,2024-09-25
+CUST00256,Mpho,Gumede,+27663057514,mpho.gumede256@example.com,Female,Polokwane,Limpopo,2025-05-17
+CUST00257,Thabo,Mthembu,+27626361793,thabo.mthembu257@example.com,Male,Cape Town,Western Cape,2025-03-31
+CUST00258,Thandi,Mahlangu,+27653920762,thandi.mahlangu258@example.com,Female,Polokwane,Limpopo,2024-11-03
+CUST00259,Ayanda,Khumalo,+27679288312,ayanda.khumalo259@example.com,Female,Durban,KwaZulu-Natal,2024-05-22
+CUST00260,Nkosinathi,Mahlangu,+27773177199,nkosinathi.mahlangu260@example.com,Male,Bloemfontein,Free State,2025-04-23
+CUST00261,Thabo,Mabena,+27767891998,thabo.mabena261@example.com,Male,Midrand,Gauteng,2025-05-05
+CUST00262,Thandi,Mokoena,+27628549319,thandi.mokoena262@example.com,Female,Bloemfontein,Free State,2025-10-19
+CUST00263,Tariro,Mokoena,+27739436654,tariro.mokoena263@example.com,Female,Cape Town,Western Cape,2024-05-12
+CUST00264,Lungile,Williams,+27653717354,lungile.williams264@example.com,Male,Cape Town,Western Cape,2024-11-07
+CUST00265,Ayanda,Sithole,+27684293399,ayanda.sithole265@example.com,Female,Polokwane,Limpopo,2024-03-21
+CUST00266,Nokuthula,Radebe,+27772567468,nokuthula.radebe266@example.com,Female,Polokwane,Limpopo,2025-09-21
+CUST00267,Anele,Mlambo,+27816664316,anele.mlambo267@example.com,Male,Cape Town,Western Cape,2024-06-24
+CUST00268,Tinashe,Dlamini,+27845440189,tinashe.dlamini268@example.com,Male,Johannesburg,Gauteng,2025-10-18
+CUST00269,Anele,Nkosi,+27805859883,anele.nkosi269@example.com,Male,Johannesburg,Gauteng,2025-05-24
+CUST00270,Kudzai,Botha,+27742224284,kudzai.botha270@example.com,Female,Midrand,Gauteng,2024-10-31
+CUST00271,Kagiso,Mthembu,+27744422938,kagiso.mthembu271@example.com,Male,Midrand,Gauteng,2025-05-10
+CUST00272,Nokuthula,Dube,+27723193891,nokuthula.Dube272@example.com,Female,Bloemfontein,Free State,2024-12-19
+CUST00273,Zanele,Dube,+27635487430,zanele.Dube273@example.com,Female,Durban,KwaZulu-Natal,2025-04-22
+CUST00274,Ayanda,Mokoena,+27697444964,ayanda.mokoena274@example.com,Female,Pretoria,Gauteng,2024-02-21
+CUST00275,Ayanda,Naidoo,+27836246485,ayanda.naidoo275@example.com,Female,Bloemfontein,Free State,2025-08-14
+CUST00276,Kagiso,Jacobs,+27699344488,kagiso.jacobs276@example.com,Male,Centurion,Gauteng,2025-05-25
+CUST00277,Thabo,Maseko,+27666920597,thabo.maseko277@example.com,Male,Centurion,Gauteng,2024-09-03
+CUST00278,Sipho,Mabena,+27808895137,sipho.mabena278@example.com,Male,Centurion,Gauteng,2025-09-03
+CUST00279,Nomsa,Khumalo,+27687136730,nomsa.khumalo279@example.com,Female,Midrand,Gauteng,2024-05-17
+CUST00280,Tariro,Ndlovu,+27784265774,tariro.ndlovu280@example.com,Female,Midrand,Gauteng,2024-02-22
+CUST00281,Chipo,Dlamini,+27745692934,chipo.dlamini281@example.com,Female,Midrand,Gauteng,2025-05-31
+CUST00282,Mandla,Khumalo,+27707133857,mandla.khumalo282@example.com,Male,Midrand,Gauteng,2025-01-17
+CUST00283,Sibusiso,Gumede,+27611760064,sibusiso.gumede283@example.com,Male,Midrand,Gauteng,2025-05-27
+CUST00284,Mandla,Dube,+27743498809,mandla.Dube284@example.com,Male,Centurion,Gauteng,2025-06-15
+CUST00285,Musa,Gumede,+27726020319,musa.gumede285@example.com,Male,Bloemfontein,Free State,2024-06-15
+CUST00286,Kudzai,Mlambo,+27607180018,kudzai.mlambo286@example.com,Female,Polokwane,Limpopo,2025-05-01
+CUST00287,Zanele,Nkosi,+27608962302,zanele.nkosi287@example.com,Female,Polokwane,Limpopo,2025-10-06
+CUST00288,Ayanda,Ndlovu,+27767378535,ayanda.ndlovu288@example.com,Female,Centurion,Gauteng,2024-06-23
+CUST00289,Themba,Ndlovu,+27608399399,themba.ndlovu289@example.com,Male,Pretoria,Gauteng,2024-07-14
+CUST00290,Nandi,Mokoena,+27739419134,nandi.mokoena290@example.com,Female,Midrand,Gauteng,2024-07-27
+CUST00291,Lerato,Mokoena,+27709025733,lerato.mokoena291@example.com,Female,Durban,KwaZulu-Natal,2025-07-28
+CUST00292,Rudo,Naidoo,+27706943949,rudo.naidoo292@example.com,Female,Centurion,Gauteng,2025-06-29
+CUST00293,Kudzai,Pillay,+27776007984,kudzai.pillay293@example.com,Female,Durban,KwaZulu-Natal,2024-10-12
+CUST00294,Tawanda,Mabena,+27709049765,tawanda.mabena294@example.com,Male,Durban,KwaZulu-Natal,2025-05-15
+CUST00295,Naledi,Mabena,+27817370211,naledi.mabena295@example.com,Female,Pretoria,Gauteng,2025-08-10
+CUST00296,Tariro,Mokoena,+27692325893,tariro.mokoena296@example.com,Female,Polokwane,Limpopo,2024-02-13
+CUST00297,Refilwe,Radebe,+27664390138,refilwe.radebe297@example.com,Female,Polokwane,Limpopo,2025-05-05
+CUST00298,Naledi,Mokoena,+27835014486,naledi.mokoena298@example.com,Female,Pretoria,Gauteng,2025-09-22
+CUST00299,Sipho,Williams,+27671880654,sipho.williams299@example.com,Male,Durban,KwaZulu-Natal,2025-10-15
+CUST00300,Bongani,Dube,+27813306314,bongani.Dube300@example.com,Male,Centurion,Gauteng,2024-04-12
+CUST00301,Junior,Naidoo,+27759010256,junior.naidoo301@example.com,Male,Midrand,Gauteng,2025-10-30
+CUST00302,Tawanda,Dube,+27612500901,tawanda.Dube302@example.com,Male,Polokwane,Limpopo,2025-10-23
+CUST00303,Junior,Ndlovu,+27651609681,junior.ndlovu303@example.com,Male,Cape Town,Western Cape,2025-03-03
+CUST00304,Kudzai,Naidoo,+27606006190,kudzai.naidoo304@example.com,Female,Polokwane,Limpopo,2024-02-08
+CUST00305,Musa,Mabena,+27779796605,musa.mabena305@example.com,Male,Centurion,Gauteng,2025-10-18
+CUST00306,Nokuthula,Williams,+27662889899,nokuthula.williams306@example.com,Female,Centurion,Gauteng,2024-10-06
+CUST00307,Amanda,Mthembu,+27606655803,amanda.mthembu307@example.com,Female,Polokwane,Limpopo,2024-07-09
+CUST00308,Mpho,Naidoo,+27766501696,mpho.naidoo308@example.com,Female,Midrand,Gauteng,2025-03-13
+CUST00309,Sandile,Khumalo,+27756429135,sandile.khumalo309@example.com,Male,Cape Town,Western Cape,2024-05-23
+CUST00310,Tinashe,Van Wyk,+27745479421,tinashe.vanwyk310@example.com,Male,Midrand,Gauteng,2024-08-29
+CUST00311,Chipo,Mlambo,+27807032283,chipo.mlambo311@example.com,Female,Johannesburg,Gauteng,2024-09-24
+CUST00312,Sipho,Khumalo,+27657801762,sipho.khumalo312@example.com,Male,Centurion,Gauteng,2024-11-10
+CUST00313,Zanele,Radebe,+27794705235,zanele.radebe313@example.com,Female,Polokwane,Limpopo,2025-01-11
+CUST00314,Mandla,Jacobs,+27837268384,mandla.jacobs314@example.com,Male,Cape Town,Western Cape,2025-04-10
+CUST00315,Kudzai,Mahlangu,+27812373555,kudzai.mahlangu315@example.com,Female,Durban,KwaZulu-Natal,2024-09-10
+CUST00316,Tariro,Dlamini,+27779480665,tariro.dlamini316@example.com,Female,Pretoria,Gauteng,2024-03-04
+CUST00317,Anele,Mahlangu,+27709729882,anele.mahlangu317@example.com,Male,Cape Town,Western Cape,2024-06-17
+CUST00318,Zanele,Pillay,+27768473959,zanele.pillay318@example.com,Female,Centurion,Gauteng,2024-04-03
+CUST00319,Wandile,Mokoena,+27781968662,wandile.mokoena319@example.com,Male,Midrand,Gauteng,2025-04-12
+CUST00320,Chipo,Moyo,+27604655777,chipo.moyo320@example.com,Female,Midrand,Gauteng,2024-09-17
+CUST00321,Sipho,Nkosi,+27772010921,sipho.nkosi321@example.com,Male,Bloemfontein,Free State,2024-03-06
+CUST00322,Tshepo,Ndlovu,+27653272119,tshepo.ndlovu322@example.com,Male,Polokwane,Limpopo,2025-02-22
+CUST00323,Tariro,Maseko,+27722346371,tariro.maseko323@example.com,Female,Centurion,Gauteng,2025-01-21
+CUST00324,Nkosinathi,Khumalo,+27729872505,nkosinathi.khumalo324@example.com,Male,Cape Town,Western Cape,2025-07-04
+CUST00325,Themba,Moyo,+27748115687,themba.moyo325@example.com,Male,Johannesburg,Gauteng,2024-11-01
+CUST00326,Ayanda,Botha,+27645624635,ayanda.botha326@example.com,Female,Centurion,Gauteng,2024-12-20
+CUST00327,Lungile,Ndlovu,+27841262492,lungile.ndlovu327@example.com,Male,Midrand,Gauteng,2025-09-21
+CUST00328,Sibusiso,Dlamini,+27618490038,sibusiso.dlamini328@example.com,Male,Pretoria,Gauteng,2025-08-31
+CUST00329,Themba,Ndlovu,+27674645172,themba.ndlovu329@example.com,Male,Midrand,Gauteng,2025-03-25
+CUST00330,Mandla,Williams,+27836350316,mandla.williams330@example.com,Male,Polokwane,Limpopo,2024-08-27
+CUST00331,Ayanda,Mabena,+27764708481,ayanda.mabena331@example.com,Female,Cape Town,Western Cape,2025-11-07
+CUST00332,Chipo,Van Wyk,+27783938247,chipo.vanwyk332@example.com,Female,Johannesburg,Gauteng,2025-07-24
+CUST00333,Kudzai,Ndlovu,+27817394713,kudzai.ndlovu333@example.com,Female,Bloemfontein,Free State,2025-10-20
+CUST00334,Nandi,Nkosi,+27724084977,nandi.nkosi334@example.com,Female,Cape Town,Western Cape,2024-11-03
+CUST00335,Ayanda,Botha,+27741966769,ayanda.botha335@example.com,Female,Polokwane,Limpopo,2024-05-27
+CUST00336,Nandi,Mahlangu,+27675278117,nandi.mahlangu336@example.com,Female,Cape Town,Western Cape,2025-02-01
+CUST00337,Musa,Radebe,+27712551288,musa.radebe337@example.com,Male,Pretoria,Gauteng,2025-04-05
+CUST00338,Sipho,Van Wyk,+27791663497,sipho.vanwyk338@example.com,Male,Midrand,Gauteng,2025-11-20
+CUST00339,Sibusiso,Mlambo,+27666586214,sibusiso.mlambo339@example.com,Male,Durban,KwaZulu-Natal,2025-05-05
+CUST00340,Nomsa,Pillay,+27839034958,nomsa.pillay340@example.com,Female,Durban,KwaZulu-Natal,2024-04-30
+CUST00341,Karabo,Pillay,+27776395804,karabo.pillay341@example.com,Male,Midrand,Gauteng,2024-09-02
+CUST00342,Boitumelo,Mthembu,+27687033835,boitumelo.mthembu342@example.com,Female,Bloemfontein,Free State,2024-11-11
+CUST00343,Refilwe,Khumalo,+27667219396,refilwe.khumalo343@example.com,Female,Centurion,Gauteng,2024-11-23
+CUST00344,Nandi,Ndlovu,+27605375063,nandi.ndlovu344@example.com,Female,Durban,KwaZulu-Natal,2024-05-29
+CUST00345,Chipo,Mokoena,+27677372653,chipo.mokoena345@example.com,Female,Durban,KwaZulu-Natal,2024-12-03
+CUST00346,Tshepo,Mahlangu,+27849197701,tshepo.mahlangu346@example.com,Male,Bloemfontein,Free State,2024-09-20
+CUST00347,Refilwe,Naidoo,+27649192588,refilwe.naidoo347@example.com,Female,Bloemfontein,Free State,2024-06-22
+CUST00348,Junior,Radebe,+27612247057,junior.radebe348@example.com,Male,Johannesburg,Gauteng,2025-06-20
+CUST00349,Tinashe,Nkosi,+27672140312,tinashe.nkosi349@example.com,Male,Cape Town,Western Cape,2025-10-07
+CUST00350,Tinashe,Pillay,+27619106820,tinashe.pillay350@example.com,Male,Centurion,Gauteng,2025-01-17
+CUST00351,Nomsa,Moyo,+27609882154,nomsa.moyo351@example.com,Female,Midrand,Gauteng,2024-01-13
+CUST00352,Chipo,Moyo,+27632615878,chipo.moyo352@example.com,Female,Midrand,Gauteng,2024-07-02
+CUST00353,Themba,Pillay,+27687658817,themba.pillay353@example.com,Male,Polokwane,Limpopo,2024-12-28
+CUST00354,Nkosinathi,Maseko,+27674789255,nkosinathi.maseko354@example.com,Male,Centurion,Gauteng,2025-08-01
+CUST00355,Thandi,Radebe,+27727362994,thandi.radebe355@example.com,Female,Johannesburg,Gauteng,2024-04-05
+CUST00356,Kudzai,Ndlovu,+27629386232,kudzai.ndlovu356@example.com,Female,Johannesburg,Gauteng,2024-06-24
+CUST00357,Rudo,Mlambo,+27614854842,rudo.mlambo357@example.com,Female,Pretoria,Gauteng,2025-06-24
+CUST00358,Anele,Jacobs,+27625703878,anele.jacobs358@example.com,Male,Polokwane,Limpopo,2024-02-17
+CUST00359,Kagiso,Dube,+27783419132,kagiso.Dube359@example.com,Male,Johannesburg,Gauteng,2024-07-31
+CUST00360,Thandi,Mabena,+27677528964,thandi.mabena360@example.com,Female,Cape Town,Western Cape,2025-07-31
+CUST00361,Boitumelo,Mokoena,+27836802559,boitumelo.mokoena361@example.com,Female,Pretoria,Gauteng,2025-05-27
+CUST00362,Lungile,Nkosi,+27707655572,lungile.nkosi362@example.com,Male,Durban,KwaZulu-Natal,2024-03-18
+CUST00363,Nomsa,Radebe,+27754827527,nomsa.radebe363@example.com,Female,Polokwane,Limpopo,2025-04-06
+CUST00364,Boitumelo,Nkosi,+27787376562,boitumelo.nkosi364@example.com,Female,Cape Town,Western Cape,2025-11-27
+CUST00365,Karabo,Mabena,+27625495824,karabo.mabena365@example.com,Male,Durban,KwaZulu-Natal,2024-03-16
+CUST00366,Sandile,Radebe,+27707051545,sandile.radebe366@example.com,Male,Cape Town,Western Cape,2025-02-02
+CUST00367,Thabo,Moyo,+27715525929,thabo.moyo367@example.com,Male,Polokwane,Limpopo,2025-03-31
+CUST00368,Mandla,Dlamini,+27749597330,mandla.dlamini368@example.com,Male,Cape Town,Western Cape,2025-03-17
+CUST00369,Zanele,Moyo,+27772561359,zanele.moyo369@example.com,Female,Pretoria,Gauteng,2024-12-28
+CUST00370,Boitumelo,Moyo,+27722421022,boitumelo.moyo370@example.com,Female,Polokwane,Limpopo,2025-02-27
+CUST00371,Anele,Williams,+27653329349,anele.williams371@example.com,Male,Cape Town,Western Cape,2025-01-24
+CUST00372,Chipo,Van Wyk,+27623805274,chipo.vanwyk372@example.com,Female,Centurion,Gauteng,2024-05-29
+CUST00373,Naledi,Nkosi,+27627058670,naledi.nkosi373@example.com,Female,Polokwane,Limpopo,2025-05-10
+CUST00374,Ayanda,Radebe,+27794280754,ayanda.radebe374@example.com,Female,Centurion,Gauteng,2025-08-31
+CUST00375,Zanele,Mokoena,+27726573679,zanele.mokoena375@example.com,Female,Polokwane,Limpopo,2024-01-07
+CUST00376,Rudo,Mthembu,+27803283789,rudo.mthembu376@example.com,Female,Bloemfontein,Free State,2025-03-16
+CUST00377,Rudo,Gumede,+27703980258,rudo.gumede377@example.com,Female,Durban,KwaZulu-Natal,2025-05-05
+CUST00378,Rudo,Mabena,+27676467463,rudo.mabena378@example.com,Female,Centurion,Gauteng,2025-08-12
+CUST00379,Naledi,Maseko,+27784352088,naledi.maseko379@example.com,Female,Bloemfontein,Free State,2024-04-26
+CUST00380,Junior,Moyo,+27745887726,junior.moyo380@example.com,Male,Centurion,Gauteng,2024-08-02
+CUST00381,Bongani,Jacobs,+27695060441,bongani.jacobs381@example.com,Male,Cape Town,Western Cape,2025-10-10
+CUST00382,Nokuthula,Nkosi,+27749040224,nokuthula.nkosi382@example.com,Female,Midrand,Gauteng,2024-03-16
+CUST00383,Nandi,Mahlangu,+27822425760,nandi.mahlangu383@example.com,Female,Johannesburg,Gauteng,2025-01-03
+CUST00384,Themba,Sithole,+27791743175,themba.sithole384@example.com,Male,Cape Town,Western Cape,2025-10-24
+CUST00385,Rudo,Nkosi,+27635340909,rudo.nkosi385@example.com,Female,Pretoria,Gauteng,2024-01-11
+CUST00386,Lerato,Williams,+27717562142,lerato.williams386@example.com,Male,Durban,KwaZulu-Natal,2025-04-01
+CUST00387,Nokuthula,Sithole,+27635956530,nokuthula.sithole387@example.com,Female,Johannesburg,Gauteng,2025-05-09
+CUST00388,Thandi,Khumalo,+27696755703,thandi.khumalo388@example.com,Female,Cape Town,Western Cape,2024-12-22
+CUST00389,Mpho,Williams,+27752637842,mpho.williams389@example.com,Female,Centurion,Gauteng,2024-12-22
+CUST00390,Refilwe,Dube,+27612930810,refilwe.Dube390@example.com,Female,Pretoria,Gauteng,2024-11-03
+CUST00391,Musa,Radebe,+27655092180,musa.radebe391@example.com,Male,Pretoria,Gauteng,2025-11-24
+CUST00392,Junior,Naidoo,+27738751982,junior.naidoo392@example.com,Male,Bloemfontein,Free State,2025-07-27
+CUST00393,Sandile,Radebe,+27808250013,sandile.radebe393@example.com,Male,Cape Town,Western Cape,2024-07-09
+CUST00394,Nomsa,Gumede,+27788206700,nomsa.gumede394@example.com,Female,Durban,KwaZulu-Natal,2025-04-05
+CUST00395,Nomsa,Pillay,+27842049645,nomsa.pillay395@example.com,Female,Durban,KwaZulu-Natal,2024-10-12
+CUST00396,Junior,Naidoo,+27668676422,junior.naidoo396@example.com,Male,Bloemfontein,Free State,2024-11-29
+CUST00397,Blessing,Jacobs,+27727585795,blessing.jacobs397@example.com,Male,Bloemfontein,Free State,2025-09-03
+CUST00398,Nkosinathi,Sithole,+27655990296,nkosinathi.sithole398@example.com,Male,Centurion,Gauteng,2025-09-24
+CUST00399,Mandla,Dube,+27692962077,mandla.Dube399@example.com,Male,Pretoria,Gauteng,2024-09-01
+CUST00400,Nkosinathi,Mokoena,+27793313029,nkosinathi.mokoena400@example.com,Male,Midrand,Gauteng,2025-03-04
+CUST00401,Nandi,Naidoo,+27773906397,nandi.naidoo401@example.com,Female,Centurion,Gauteng,2025-10-12
+CUST00402,Tshepo,Mabena,+27708566540,tshepo.mabena402@example.com,Male,Cape Town,Western Cape,2024-07-10
+CUST00403,Nkosinathi,Moyo,+27667441514,nkosinathi.moyo403@example.com,Male,Centurion,Gauteng,2024-05-19
+CUST00404,Nandi,Jacobs,+27753806047,nandi.jacobs404@example.com,Female,Midrand,Gauteng,2025-03-30
+CUST00405,Anele,Moyo,+27615611266,anele.moyo405@example.com,Male,Durban,KwaZulu-Natal,2024-10-26
+CUST00406,Junior,Mabena,+27789309978,junior.mabena406@example.com,Male,Cape Town,Western Cape,2025-04-13
+CUST00407,Anele,Khumalo,+27711698108,anele.khumalo407@example.com,Male,Polokwane,Limpopo,2025-07-10
+CUST00408,Mpho,Nkosi,+27845152891,mpho.nkosi408@example.com,Female,Pretoria,Gauteng,2025-10-31
+CUST00409,Lerato,Mthembu,+27628366370,lerato.mthembu409@example.com,Female,Polokwane,Limpopo,2024-12-22
+CUST00410,Themba,Pillay,+27808183451,themba.pillay410@example.com,Male,Bloemfontein,Free State,2025-09-16
+CUST00411,Karabo,Mokoena,+27616885707,karabo.mokoena411@example.com,Male,Durban,KwaZulu-Natal,2024-07-30
+CUST00412,Amanda,Dube,+27785485272,amanda.Dube412@example.com,Female,Polokwane,Limpopo,2024-10-23
+CUST00413,Mandla,Nkosi,+27803128830,mandla.nkosi413@example.com,Male,Johannesburg,Gauteng,2024-10-10
+CUST00414,Themba,Mokoena,+27847588425,themba.mokoena414@example.com,Male,Bloemfontein,Free State,2024-09-10
+CUST00415,Nokuthula,Mlambo,+27737294347,nokuthula.mlambo415@example.com,Female,Polokwane,Limpopo,2025-10-04
+CUST00416,Thandi,Radebe,+27765667852,thandi.radebe416@example.com,Female,Pretoria,Gauteng,2025-02-16
+CUST00417,Refilwe,Jacobs,+27602562657,refilwe.jacobs417@example.com,Female,Bloemfontein,Free State,2025-08-18
+CUST00418,Tariro,Dlamini,+27734554277,tariro.dlamini418@example.com,Female,Midrand,Gauteng,2024-08-11
+CUST00419,Naledi,Dube,+27773191007,naledi.Dube419@example.com,Female,Polokwane,Limpopo,2024-12-11
+CUST00420,Rudo,Ndlovu,+27808710502,rudo.ndlovu420@example.com,Female,Johannesburg,Gauteng,2024-04-11
+CUST00421,Lungile,Naidoo,+27608177281,lungile.naidoo421@example.com,Male,Centurion,Gauteng,2025-04-12
+CUST00422,Mandla,Radebe,+27682565985,mandla.radebe422@example.com,Male,Polokwane,Limpopo,2024-06-11
+CUST00423,Naledi,Dlamini,+27803777050,naledi.dlamini423@example.com,Female,Bloemfontein,Free State,2025-11-11
+CUST00424,Sandile,Radebe,+27732530068,sandile.radebe424@example.com,Male,Polokwane,Limpopo,2024-08-27
+CUST00425,Tinashe,Pillay,+27644794852,tinashe.pillay425@example.com,Male,Centurion,Gauteng,2024-03-20
+CUST00426,Nomsa,Moyo,+27733217531,nomsa.moyo426@example.com,Female,Bloemfontein,Free State,2024-05-03
+CUST00427,Thandi,Botha,+27832718442,thandi.botha427@example.com,Female,Midrand,Gauteng,2024-04-01
+CUST00428,Musa,Sithole,+27723233823,musa.sithole428@example.com,Male,Polokwane,Limpopo,2024-05-20
+CUST00429,Thabo,Williams,+27803753418,thabo.williams429@example.com,Male,Johannesburg,Gauteng,2025-09-16
+CUST00430,Tariro,Pillay,+27798421969,tariro.pillay430@example.com,Female,Cape Town,Western Cape,2025-02-25
+CUST00431,Thabo,Khumalo,+27787442986,thabo.khumalo431@example.com,Male,Cape Town,Western Cape,2024-05-06
+CUST00432,Nandi,Dube,+27682413458,nandi.Dube432@example.com,Female,Cape Town,Western Cape,2024-09-10
+CUST00433,Junior,Gumede,+27816060836,junior.gumede433@example.com,Male,Polokwane,Limpopo,2024-01-28
+CUST00434,Lerato,Gumede,+27691915518,lerato.gumede434@example.com,Male,Durban,KwaZulu-Natal,2025-02-05
+CUST00435,Tshepo,Maseko,+27752191383,tshepo.maseko435@example.com,Male,Pretoria,Gauteng,2024-09-03
+CUST00436,Nkosinathi,Dube,+27788060918,nkosinathi.Dube436@example.com,Male,Cape Town,Western Cape,2025-01-31
+CUST00437,Amanda,Jacobs,+27782133008,amanda.jacobs437@example.com,Female,Pretoria,Gauteng,2024-01-18
+CUST00438,Blessing,Pillay,+27729499515,blessing.pillay438@example.com,Male,Johannesburg,Gauteng,2024-03-02
+CUST00439,Nandi,Nkosi,+27803561552,nandi.nkosi439@example.com,Female,Midrand,Gauteng,2024-03-25
+CUST00440,Thandi,Mabena,+27663606795,thandi.mabena440@example.com,Female,Pretoria,Gauteng,2025-06-07
+CUST00441,Boitumelo,Mlambo,+27828339797,boitumelo.mlambo441@example.com,Female,Pretoria,Gauteng,2024-11-13
+CUST00442,Sipho,Botha,+27638606317,sipho.botha442@example.com,Male,Pretoria,Gauteng,2025-03-20
+CUST00443,Tawanda,Naidoo,+27823302031,tawanda.naidoo443@example.com,Male,Pretoria,Gauteng,2024-01-13
+CUST00444,Kagiso,Jacobs,+27765349442,kagiso.jacobs444@example.com,Male,Bloemfontein,Free State,2025-06-19
+CUST00445,Nkosinathi,Mokoena,+27841492516,nkosinathi.mokoena445@example.com,Male,Polokwane,Limpopo,2024-04-30
+CUST00446,Nandi,Van Wyk,+27822293020,nandi.vanwyk446@example.com,Female,Pretoria,Gauteng,2024-09-26
+CUST00447,Refilwe,Williams,+27753799805,refilwe.williams447@example.com,Female,Bloemfontein,Free State,2024-02-26
+CUST00448,Amanda,Van Wyk,+27812934976,amanda.vanwyk448@example.com,Female,Pretoria,Gauteng,2025-08-10
+CUST00449,Lerato,Moyo,+27671771442,lerato.moyo449@example.com,Male,Johannesburg,Gauteng,2024-01-13
+CUST00450,Tariro,Maseko,+27618035849,tariro.maseko450@example.com,Female,Cape Town,Western Cape,2024-07-02
+CUST00451,Musa,Botha,+27682306728,musa.botha451@example.com,Male,Midrand,Gauteng,2024-11-23
+CUST00452,Zanele,Williams,+27679653253,zanele.williams452@example.com,Female,Johannesburg,Gauteng,2024-07-02
+CUST00453,Sandile,Dlamini,+27846212643,sandile.dlamini453@example.com,Male,Centurion,Gauteng,2024-10-16
+CUST00454,Thandi,Mahlangu,+27714366703,thandi.mahlangu454@example.com,Female,Centurion,Gauteng,2024-01-09
+CUST00455,Chipo,Gumede,+27719277218,chipo.gumede455@example.com,Female,Durban,KwaZulu-Natal,2025-04-20
+CUST00456,Junior,Botha,+27731401147,junior.botha456@example.com,Male,Cape Town,Western Cape,2024-01-07
+CUST00457,Junior,Sithole,+27607312844,junior.sithole457@example.com,Male,Johannesburg,Gauteng,2024-12-09
+CUST00458,Zanele,Pillay,+27752004872,zanele.pillay458@example.com,Female,Durban,KwaZulu-Natal,2025-03-05
+CUST00459,Blessing,Dlamini,+27767929943,blessing.dlamini459@example.com,Male,Johannesburg,Gauteng,2024-08-25
+CUST00460,Refilwe,Dlamini,+27647616116,refilwe.dlamini460@example.com,Female,Pretoria,Gauteng,2025-06-01
+CUST00461,Anele,Mlambo,+27813192921,anele.mlambo461@example.com,Male,Johannesburg,Gauteng,2025-03-21
+CUST00462,Tawanda,Van Wyk,+27826473593,tawanda.vanwyk462@example.com,Male,Bloemfontein,Free State,2025-02-06
+CUST00463,Refilwe,Van Wyk,+27663283577,refilwe.vanwyk463@example.com,Female,Durban,KwaZulu-Natal,2024-03-17
+CUST00464,Mandla,Khumalo,+27746268604,mandla.khumalo464@example.com,Male,Cape Town,Western Cape,2025-04-05
+CUST00465,Zanele,Mahlangu,+27746172545,zanele.mahlangu465@example.com,Female,Bloemfontein,Free State,2024-07-31
+CUST00466,Naledi,Khumalo,+27816103880,naledi.khumalo466@example.com,Female,Pretoria,Gauteng,2024-06-10
+CUST00467,Sibusiso,Dube,+27825164420,sibusiso.Dube467@example.com,Male,Cape Town,Western Cape,2024-04-03
+CUST00468,Boitumelo,Williams,+27695364874,boitumelo.williams468@example.com,Female,Johannesburg,Gauteng,2025-11-24
+CUST00469,Tinashe,Maseko,+27835191831,tinashe.maseko469@example.com,Male,Centurion,Gauteng,2025-07-23
+CUST00470,Wandile,Khumalo,+27602034637,wandile.khumalo470@example.com,Male,Cape Town,Western Cape,2024-05-04
+CUST00471,Mandla,Pillay,+27812409947,mandla.pillay471@example.com,Male,Midrand,Gauteng,2025-01-16
+CUST00472,Thandi,Moyo,+27808439543,thandi.moyo472@example.com,Female,Pretoria,Gauteng,2024-07-21
+CUST00473,Thabo,Dube,+27741849559,thabo.Dube473@example.com,Male,Pretoria,Gauteng,2024-02-13
+CUST00474,Anele,Nkosi,+27607421134,anele.nkosi474@example.com,Male,Midrand,Gauteng,2025-05-23
+CUST00475,Amanda,Sithole,+27685695180,amanda.sithole475@example.com,Female,Durban,KwaZulu-Natal,2024-07-10
+CUST00476,Nokuthula,Ndlovu,+27699370012,nokuthula.ndlovu476@example.com,Female,Durban,KwaZulu-Natal,2025-10-24
+CUST00477,Kudzai,Ndlovu,+27723302438,kudzai.ndlovu477@example.com,Female,Pretoria,Gauteng,2024-10-13
+CUST00478,Mpho,Radebe,+27771327658,mpho.radebe478@example.com,Female,Durban,KwaZulu-Natal,2025-10-07
+CUST00479,Tariro,Jacobs,+27789428760,tariro.jacobs479@example.com,Female,Centurion,Gauteng,2024-12-18
+CUST00480,Boitumelo,Van Wyk,+27704674549,boitumelo.vanwyk480@example.com,Female,Cape Town,Western Cape,2024-01-27
+CUST00481,Blessing,Ndlovu,+27714905100,blessing.ndlovu481@example.com,Male,Centurion,Gauteng,2025-06-26
+CUST00482,Lungile,Botha,+27771937991,lungile.botha482@example.com,Male,Durban,KwaZulu-Natal,2024-09-29
+CUST00483,Anele,Maseko,+27654968669,anele.maseko483@example.com,Male,Bloemfontein,Free State,2024-06-26
+CUST00484,Tariro,Mlambo,+27783384080,tariro.mlambo484@example.com,Female,Johannesburg,Gauteng,2024-12-26
+CUST00485,Tshepo,Mahlangu,+27751636925,tshepo.mahlangu485@example.com,Male,Polokwane,Limpopo,2024-06-28
+CUST00486,Sipho,Botha,+27769019324,sipho.botha486@example.com,Male,Durban,KwaZulu-Natal,2024-01-21
+CUST00487,Musa,Gumede,+27703977282,musa.gumede487@example.com,Male,Durban,KwaZulu-Natal,2024-05-13
+CUST00488,Lerato,Moyo,+27823376537,lerato.moyo488@example.com,Female,Cape Town,Western Cape,2025-08-23
+CUST00489,Lerato,Sithole,+27827636992,lerato.sithole489@example.com,Male,Pretoria,Gauteng,2025-01-17
+CUST00490,Musa,Mabena,+27658329435,musa.mabena490@example.com,Male,Bloemfontein,Free State,2024-05-19
+CUST00491,Rudo,Naidoo,+27813941912,rudo.naidoo491@example.com,Female,Bloemfontein,Free State,2024-08-16
+CUST00492,Chipo,Mabena,+27831030163,chipo.mabena492@example.com,Female,Cape Town,Western Cape,2024-06-30
+CUST00493,Lerato,Naidoo,+27672746679,lerato.naidoo493@example.com,Female,Bloemfontein,Free State,2025-09-18
+CUST00494,Nokuthula,Dube,+27716360633,nokuthula.Dube494@example.com,Female,Pretoria,Gauteng,2024-08-31
+CUST00495,Thabo,Radebe,+27605449526,thabo.radebe495@example.com,Male,Bloemfontein,Free State,2025-04-02
+CUST00496,Themba,Dlamini,+27631021494,themba.dlamini496@example.com,Male,Bloemfontein,Free State,2024-09-19
+CUST00497,Sandile,Mthembu,+27739272543,sandile.mthembu497@example.com,Male,Midrand,Gauteng,2024-06-19
+CUST00498,Tariro,Mahlangu,+27754784650,tariro.mahlangu498@example.com,Female,Midrand,Gauteng,2024-04-13
+CUST00499,Wandile,Dlamini,+27606347182,wandile.dlamini499@example.com,Male,Johannesburg,Gauteng,2024-10-28
+CUST00500,Zanele,Dlamini,+27723699529,zanele.dlamini500@example.com,Female,Bloemfontein,Free State,2024-06-23
